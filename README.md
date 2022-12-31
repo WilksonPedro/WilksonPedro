@@ -1,13 +1,30 @@
-# Olá, Wilkson aqui  🚀
+# 💫 About Me:
+Sou um desenvolvedor web iniciante apaixonado por tecnologia e inovação. Desde que comecei a estudar essa área, tenho me encantado pelas possibilidades que ela oferece. Sou uma pessoa muito curiosa e gosto de explorar novas ideias e soluções. Isso me torna muito flexível e capaz de lidar com mudanças rápidas e incertezas.<br><br>No meu perfil no GitHub, você pode ver alguns dos projetos pelos quais já trabalhei e ver como minhas habilidades em HTML, CSS, JavaScript e outras linguagens de programação estão evoluindo. Eu também estou sempre procurando novas oportunidades de aprendizado e colaboração, então não hesite em entrar em contato se quiser bater um papo ou saber mais sobre o meu trabalho.
 
-Sou um desenvolvedor web iniciante apaixonado por tecnologia e inovação. Desde que comecei a estudar essa área, tenho me encantado pelas possibilidades que ela oferece. Sou uma pessoa muito curiosa e gosto de explorar novas ideias e soluções. Isso me torna muito flexível e capaz de lidar com mudanças rápidas e incertezas.
 
-No meu perfil no GitHub, você pode ver alguns dos projetos pelos quais já trabalhei e ver como minhas habilidades em HTML, CSS, JavaScript e outras linguagens de programação estão evoluindo. Eu também estou sempre procurando novas oportunidades de aprendizado e colaboração, então não hesite em entrar em contato se quiser bater um papo ou saber mais sobre o meu trabalho.
-  ## Habilidades 💪
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MuXzkbjGDJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thydus__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilkson-pedro-96a8aa1aa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Dev_Thydus) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wilkson-pedro-96a8aa1aa/)](https://www.linkedin.com/in/wilkson-pedro-96a8aa1aa/)
-[![GitHub followers](https://img.shields.io/github/followers/seu-nome?label=Follow&style=social)](https://github.com/WilksonPedro)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/seu-twitter)](https://twitter.com/Dev_Thydus)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wilksonPedro&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wilksonPedro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@Dev_Thydus)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=wilksonPedro&icon=1&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
