@@ -1,17 +1,73 @@
-Olá, seja bem vindo ao mmeu Perfil.<br>
-Sou um desenvolvedor web iniciante apaixonado por tecnologia e inovação. Desde que comecei a estudar essa área, tenho me encantado pelas possibilidades que ela oferece. Sou uma pessoa muito curiosa e gosto de explorar novas ideias e soluções. Isso me torna muito flexível e capaz de lidar com mudanças rápidas e incertezas.<br><br>No meu perfil no GitHub, você pode ver alguns dos projetos pelos quais já trabalhei e ver como minhas habilidades em HTML, CSS, JavaScript e outras linguagens de programação estão evoluindo. Eu também estou sempre procurando novas oportunidades de aprendizado e colaboração, então não hesite em entrar em contato se quiser bater um papo ou saber mais sobre o meu trabalho.
+# Will — forjando ideias em código 🔥
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Atualmente atuo como Analista de TI, estudo desenvolvimento web e construo projetos pessoais que misturam programação, imaginação e sistemas.
+Programar, para mim, não é só aprender sintaxe ou empilhar tecnologias. É uma forma de transformar ideias invisíveis em algo que responde, registra, calcula, simula e existe.
+Tenho interesse por sistemas que parecem vivos: simulações, automações, ferramentas pessoais, mundos interativos, organização de conhecimento e IA aplicada à criação. Gosto de entender como pequenas regras podem gerar comportamentos maiores:
+
+Seja em uma aplicação web, em uma rotina automatizada ou em um motor de simulação.
+
+
+
+Meu foco atual está em **JavaScript, Node.js, React, TypeScript, Linux e automações**.
+
+
+
+## Como eu penso tecnologia
+
+
+
+Eu gosto de construir coisas que tenham identidade.
+
+
+
+Não me interessa apenas fazer uma tela funcionar ou concluir um exercício. O que realmente me move é pegar uma ideia meio nebulosa, quebrar em partes menores e descobrir como ela pode existir no mundo real através de código.
+
+
+
+Hoje estou CONSTRUINDO minha relação com programação através de projetos autorais:
+
+
+
+## A forja atual
+
+
+
+### Mythos Engine
+
+
+
+Meu principal projeto é o **Mythos Engine**: uma tentativa de transformar uma filosofia de mundo em um motor executável.
+
+
+
+A ideia central é simples de dizer e difícil de construir:
+
+
+
+> E se crenças, rumores, medo, confiança e coerência coletiva pudessem alterar uma realidade simulada por regras — não por roteiro?
+
+
+
+No Mythos, estou explorando simulação determinística, NPCs, propagação social, eventos rastreáveis, testes automatizados, documentação técnica e separação entre motor, narrativa e interface.
+
+
+
+## Próxima criação
+
+
+
+### Essence
+
+
+
+A **Essence** é uma presença digital em construção.
+
+
+
+Inicialmente, será um pequeno registrador de eventos no Linux. Com o tempo, a ideia é evoluir para uma companheira de criação capaz de observar, registrar, sugerir e crescer junto com meus estudos e projetos.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wilksonPedro&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wilksonPedro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=wilksonPedro&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
