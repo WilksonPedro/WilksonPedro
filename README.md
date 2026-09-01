@@ -38,22 +38,6 @@ Arquitetura, testes automatizados, integração contínua, banco de dados e migr
 
 ---
 
-## 🧭 Como estou aprendendo
-
-Não quero usar projetos apenas como destino para código de cursos ou tutoriais.
-Quando estudo uma nova ferramenta, prática ou conceito, procuro entender:
-
-- qual problema ela resolve;
-- por que ela existe;
-- quando faz sentido utilizá-la;
-- quais alternativas existem;
-- como aplicá-la em um projeto real;
-- como verificar se a implementação funciona.
-
-A Yongtech é hoje o principal lugar onde faço essa transferência entre estudo e prática.
-
----
-
 ## 🛠️ Tecnologias
 
 ### Trabalhando atualmente com
