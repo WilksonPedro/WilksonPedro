@@ -48,8 +48,6 @@ Arquitetura, testes automatizados, integração contínua, banco de dados e migr
 - Node.js
 - Git e GitHub
 - Linux
-- HTML
-- CSS
 
 ### Aprofundando
 
