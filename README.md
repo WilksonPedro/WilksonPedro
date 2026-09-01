@@ -1,73 +1,102 @@
 # Will — forjando ideias em código 🔥
 
-Atualmente atuo como Analista de TI, estudo desenvolvimento web e construo projetos pessoais que misturam programação, imaginação e sistemas.
-Programar, para mim, não é só aprender sintaxe ou empilhar tecnologias. É uma forma de transformar ideias invisíveis em algo que responde, registra, calcula, simula e existe.
-Tenho interesse por sistemas que parecem vivos: simulações, automações, ferramentas pessoais, mundos interativos, organização de conhecimento e IA aplicada à criação. Gosto de entender como pequenas regras podem gerar comportamentos maiores:
+Atuo profissionalmente com suporte de TI e estou direcionando minha carreira para desenvolvimento de software.
+Minha formação e meus projetos atuais estão concentrados principalmente no ecossistema JavaScript/TypeScript, com Node.js, React, Git e Linux.
 
-Seja em uma aplicação web, em uma rotina automatizada ou em um motor de simulação.
+Neste GitHub registro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
+Meu objetivo é desenvolver a capacidade de compreender problemas, decompor requisitos, implementar, testar, investigar falhas e explicar as decisões tomadas — não apenas produzir código que funciona.
 
+Também me interessam sistemas que parecem vivos: simulações, automações, mundos interativos, ferramentas pessoais e formas de transformar pequenas regras em comportamentos maiores.
 
+---
 
-Meu foco atual está em **JavaScript, Node.js, React, TypeScript, Linux e automações**.
+## 🔥 Projeto público principal
 
+### [Yongtech](https://github.com/WilksonPedro/yongtech)
 
+A Yongtech é meu laboratório público de desenvolvimento de software e também minha presença pessoal na web.
 
-## Como eu penso tecnologia
+Estou construindo o projeto de forma incremental e usando seu desenvolvimento como ambiente principal para transformar estudo em prática.
 
+Cada nova ferramenta ou conceito técnico deve responder a uma necessidade real do projeto e resultar em uma capacidade que eu consiga explicar, defender e reutilizar.
 
+### Estado atual
 
-Eu gosto de construir coisas que tenham identidade.
+- aplicação web com Next.js e React;
+- desenvolvimento em JavaScript;
+- deploy público;
+- ambiente versionado com `.nvmrc`;
+- padronização com EditorConfig e Prettier;
+- documentação em `docs/`;
+- planejamento e acompanhamento do trabalho através de Issues;
+- evolução incremental registrada através do histórico de commits.
 
+Arquitetura, testes automatizados, integração contínua, banco de dados e migrations fazem parte do roadmap e serão adicionados conforme forem estudados, compreendidos e fizerem sentido para o projeto.
 
+➡️ [Repositório](https://github.com/WilksonPedro/yongtech)  
+➡️ [Aplicação](https://yongtech.vercel.app)
 
-Não me interessa apenas fazer uma tela funcionar ou concluir um exercício. O que realmente me move é pegar uma ideia meio nebulosa, quebrar em partes menores e descobrir como ela pode existir no mundo real através de código.
+---
 
+## 🧭 Como estou aprendendo
 
+Não quero usar projetos apenas como destino para código de cursos ou tutoriais.
+Quando estudo uma nova ferramenta, prática ou conceito, procuro entender:
 
-Hoje estou CONSTRUINDO minha relação com programação através de projetos autorais:
+- qual problema ela resolve;
+- por que ela existe;
+- quando faz sentido utilizá-la;
+- quais alternativas existem;
+- como aplicá-la em um projeto real;
+- como verificar se a implementação funciona.
 
+A Yongtech é hoje o principal lugar onde faço essa transferência entre estudo e prática.
 
+---
 
-## A forja atual
+## 🛠️ Tecnologias
 
+### Trabalhando atualmente com
 
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Git e GitHub
+- Linux
+- HTML
+- CSS
 
-### Mythos Engine
+### Aprofundando
 
+- TypeScript
+- testes automatizados
+- APIs e desenvolvimento backend
+- bancos de dados
+- integração contínua
+- arquitetura e organização de software
 
+A presença de uma tecnologia aqui não significa domínio completo. Este perfil existe justamente para registrar a evolução entre aprender, aplicar e conseguir explicar cada uma delas.
 
-Meu principal projeto é o **Mythos Engine**: uma tentativa de transformar uma filosofia de mundo em um motor executável.
+---
 
+## 🧠 Interesses técnicos
 
+Tenho especial interesse por:
 
-A ideia central é simples de dizer e difícil de construir:
+- engenharia de software;
+- aplicações web;
+- automações;
+- simulações e sistemas baseados em regras;
+- ferramentas pessoais;
+- sistemas interativos;
+- IA aplicada à criação e produtividade;
+- desenvolvimento de experiências digitais.
 
+Gosto especialmente de problemas em que pequenas regras, estados e interações começam a produzir comportamentos maiores.
 
+---
 
-> E se crenças, rumores, medo, confiança e coerência coletiva pudessem alterar uma realidade simulada por regras — não por roteiro?
+## 📫 Onde me encontrar
 
-
-
-No Mythos, estou explorando simulação determinística, NPCs, propagação social, eventos rastreáveis, testes automatizados, documentação técnica e separação entre motor, narrativa e interface.
-
-
-
-## Próxima criação
-
-
-
-### Essence
-
-
-
-A **Essence** é uma presença digital em construção.
-
-
-
-Inicialmente, será um pequeno registrador de eventos no Linux. Com o tempo, a ideia é evoluir para uma companheira de criação capaz de observar, registrar, sugerir e crescer junto com meus estudos e projetos.
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wilksonPedro&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilksonPedro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/wilkson-dev-front-end/)
