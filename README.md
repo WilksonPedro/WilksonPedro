@@ -3,10 +3,8 @@
 Atuo profissionalmente com suporte de TI e estou direcionando minha carreira para desenvolvimento de software.
 Minha formação e meus projetos atuais estão concentrados principalmente no ecossistema JavaScript/TypeScript, com Node.js, React, Git e Linux.
 
-Neste GitHub registro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
+Aquiregistro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
 Meu objetivo é desenvolver a capacidade de compreender problemas, decompor requisitos, implementar, testar, investigar falhas e explicar as decisões tomadas — não apenas produzir código que funciona.
-
-Também me interessam sistemas que parecem vivos: simulações, automações, mundos interativos, ferramentas pessoais e formas de transformar pequenas regras em comportamentos maiores.
 
 ---
 
@@ -15,9 +13,7 @@ Também me interessam sistemas que parecem vivos: simulações, automações, mu
 ### [Yongtech](https://github.com/WilksonPedro/yongtech)
 
 A Yongtech é meu laboratório público de desenvolvimento de software e também minha presença pessoal na web.
-
 Estou construindo o projeto de forma incremental e usando seu desenvolvimento como ambiente principal para transformar estudo em prática.
-
 Cada nova ferramenta ou conceito técnico deve responder a uma necessidade real do projeto e resultar em uma capacidade que eu consiga explicar, defender e reutilizar.
 
 ### Estado atual
@@ -74,8 +70,6 @@ Tenho especial interesse por:
 - sistemas interativos;
 - IA aplicada à criação e produtividade;
 - desenvolvimento de experiências digitais.
-
-Gosto especialmente de problemas em que pequenas regras, estados e interações começam a produzir comportamentos maiores.
 
 ---
 
