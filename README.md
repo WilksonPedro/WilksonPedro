@@ -29,9 +29,6 @@ Cada nova ferramenta ou conceito técnico deve responder a uma necessidade real 
 
 Arquitetura, testes automatizados, integração contínua, banco de dados e migrations fazem parte do roadmap e serão adicionados conforme forem estudados, compreendidos e fizerem sentido para o projeto.
 
-➡️ [Repositório](https://github.com/WilksonPedro/yongtech)  
-➡️ [Aplicação](https://yongtech.vercel.app)
-
 ---
 
 ## 🛠️ Tecnologias
