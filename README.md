@@ -1,6 +1,7 @@
-# Will — forjando ideias em código 🔥
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/154601ec-339b-4467-a901-41daa044f82d" />
 
-Atuo profissionalmente com suporte de TI e estou direcionando minha carreira para desenvolvimento de software.
+
+Atuo profissionalmente como Analista de TI e estou direcionando minha carreira para desenvolvimento de software.
 Minha formação e meus projetos atuais estão concentrados principalmente no ecossistema JavaScript/TypeScript, com Node.js, React, Git e Linux.
 
 Aquiregistro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
