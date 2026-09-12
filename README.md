@@ -4,7 +4,7 @@
 Atuo profissionalmente como Analista de TI e estou direcionando minha carreira para desenvolvimento de software.
 Minha formação e meus projetos atuais estão concentrados principalmente no ecossistema JavaScript/TypeScript, com Node.js, React, Git e Linux.
 
-Aquiregistro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
+Aqui registro não apenas projetos concluídos, mas também meu processo de formação em engenharia de software: decisões técnicas, problemas encontrados, experimentos, documentação e evolução dos sistemas que construo.
 Meu objetivo é desenvolver a capacidade de compreender problemas, decompor requisitos, implementar, testar, investigar falhas e explicar as decisões tomadas — não apenas produzir código que funciona.
 
 ---
