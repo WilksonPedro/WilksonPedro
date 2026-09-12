@@ -54,23 +54,6 @@ Arquitetura, testes automatizados, integração contínua, banco de dados e migr
 
 A presença de uma tecnologia aqui não significa domínio completo. Este perfil existe justamente para registrar a evolução entre aprender, aplicar e conseguir explicar cada uma delas.
 
----
-
-## 🧠 Interesses técnicos
-
-Tenho especial interesse por:
-
-- engenharia de software;
-- aplicações web;
-- automações;
-- simulações e sistemas baseados em regras;
-- ferramentas pessoais;
-- sistemas interativos;
-- IA aplicada à criação e produtividade;
-- desenvolvimento de experiências digitais.
-
----
-
 ## 📫 Onde me encontrar
 
 [LinkedIn](https://www.linkedin.com/in/wilkson-dev-front-end/)
